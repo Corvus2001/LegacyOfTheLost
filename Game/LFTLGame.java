@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
-     * @author 
-     * @author
+     * @author Corvin
+     * @author Tobias
      * 
      * Von hier aus wird das Spiel gestartete
      */
@@ -38,14 +38,15 @@ public class LFTLGame{
         private static void menue1(int choice){
             switch (choice) {
                 case 1:
-                //Dungeon oder Arema
+                // Spiel Starten
                     break;
-                //Inventory
+                //Duengeons und Arena
                 case 2:
                 //Shop, kaufen verkaufen
                     break;
                 //Spiel beenden
                 case 3:
+                //
                     
             }
         }

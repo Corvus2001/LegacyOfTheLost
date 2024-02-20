@@ -1,3 +1,3 @@
 # LegacyOfTheLost
 
-Tobias
+Tobias & Corvin
